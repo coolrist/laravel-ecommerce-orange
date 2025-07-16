@@ -1,0 +1,21 @@
+{
+    "_comments": "Edit product",
+    "title": "Admin Dashboard | Edit product",
+    "slug": "edit-product",
+    "content": [
+        "Dashboard",
+        "Edit Product",
+        "Title",
+        "Description",
+        "Price",
+        "Category",
+        "Color",
+        "Special Offer/Sale",
+        "Sale %",
+        "Image 1",
+        "Image 2",
+        "Image 3",
+        "Image 4",
+        "Edit"
+    ]
+}

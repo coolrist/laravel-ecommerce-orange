@@ -1,0 +1,78 @@
+* {
+    font-family: Ubuntu, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.w3-bar {
+    z-index: 4;
+}
+
+.w3-bar a {
+    color: rgb(70, 70, 70);
+    text-decoration: none;
+}
+
+.w3-bar a span {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.w3-sidebar {
+    z-index: 3;
+    width: 300px;
+}
+
+.w3-sidebar .w3-circle {
+    width: 46px;
+}
+
+.w3-overlay {
+    cursor:pointer;
+}
+
+hr {
+	width: 30px;
+	height: 3px !important;
+	opacity: 1 !important;
+	background-color: #fb444b;
+}
+
+h1 {
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+
+h2 {
+	font-size: 1.25rem;
+	font-weight: 600;
+}
+
+/*
+*********
+* Login *
+*********/
+
+#login-form {
+	width: 50%;
+	margin: 5px auto;
+	text-align: center;
+	padding: 5px;
+}
+
+#login-form input {
+	width: 75%;
+	margin: 5px auto;
+}
+
+#login-form #login-btn {
+	width: 30%;
+}
+
+/*
+************
+* Products *
+************/
+
+#product-dashboard table img {
+	width: 70px;
+	height: auto;
+}

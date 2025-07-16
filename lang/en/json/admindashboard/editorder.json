@@ -1,0 +1,15 @@
+{
+    "_comments": "Edit order",
+    "title": "Admin Dashboard | Edit order",
+    "slug": "edit-order",
+    "content": [
+        "Dashboard",
+        "Edit Order",
+        "Order Id",
+        "Order Cost",
+        "Order Status",
+        "Order Date",
+        "Edit"
+    ],
+    "error": "Wrong choice of status"
+}

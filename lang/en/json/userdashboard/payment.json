@@ -1,0 +1,15 @@
+{
+    "_comments": "Payment",
+    "title": "E-commerce website - Payment",
+    "slug": "payment",
+    "content": [
+        "Payment",
+        "Total payment:",
+        "You don't have an order",
+        "See console for all available details"
+    ],
+    "success_status": [
+        "Order placed successfully !",
+        "Paid successfully, thanks for your shopping with us !!! 😊😊😊"
+    ]
+}

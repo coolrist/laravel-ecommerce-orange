@@ -1,0 +1,16 @@
+{
+    "_comments": "Categories",
+    "title": "Admin Dashboard | Categories",
+    "content": [
+        "Dashboard",
+        "Categories",
+        "Category id",
+        "Category name",
+        "Edit",
+        "Delete"
+    ],
+    "success_status": {
+        "update": "The category :Name has been successfully updated !",
+        "delete": "The category :Name has been successfully deleted !"
+    }
+}

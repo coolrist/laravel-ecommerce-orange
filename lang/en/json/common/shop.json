@@ -1,0 +1,20 @@
+{
+    "_comments": "Shop",
+    "title": "E-commerce website - Shop",
+    "slug": "shop",
+    "content": [
+        "Search Products",
+        "Category",
+        "Shoes",
+        "Coats",
+        "Watches",
+        "Bags",
+        "Price",
+        "Search",
+        "Our Products",
+        "Here you can check out our products",
+        "Buy Now",
+        "Previous",
+        "Next"
+    ]
+}

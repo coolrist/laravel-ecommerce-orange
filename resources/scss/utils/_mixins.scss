@@ -1,0 +1,16 @@
+@mixin font-parameters ($size: 1rem, $weight: normal, $style: normal) {
+    font-size: $size;
+
+    @if($weight !=normal) {
+        font-weight: $weight;
+    }
+
+    @if($style !=normal) {
+        font-style: $style;
+    }
+}
+
+@mixin element-size ($width, $height) {
+    width: $width;
+    height: $height;
+}

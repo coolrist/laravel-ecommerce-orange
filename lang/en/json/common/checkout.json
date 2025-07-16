@@ -1,0 +1,15 @@
+{
+    "_comments": "Check out",
+    "title": "E-commerce website - Checkout",
+    "slug": "checkout",
+    "content": [
+        "Check Out",
+        "Name",
+        "Email",
+        "Phone",
+        "City",
+        "Address",
+        "Total amount:",
+        "Place Order"
+    ]
+}

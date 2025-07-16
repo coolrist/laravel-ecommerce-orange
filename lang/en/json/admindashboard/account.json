@@ -1,0 +1,10 @@
+{
+    "_comments": "Admin Account",
+    "title": "Admin Dashboard | Account",
+    "content": [
+        "Dashboard",
+        "Admin Account",
+        "Name:",
+        "Email:"
+    ]
+}

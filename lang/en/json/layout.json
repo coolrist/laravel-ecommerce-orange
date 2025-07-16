@@ -1,0 +1,23 @@
+{
+    "_comments": "Layout",
+    "nav": [
+        "Home",
+        "Shop",
+        "Blog",
+        "Contact Us"
+    ],
+    "footer": [
+        "We provide the best products for the most affordable prices",
+        "Featured",
+        "Men",
+        "Women",
+        "Boys",
+        "Girls",
+        "New arrivals",
+        "Clothes",
+        "Contact Us",
+        "Address",
+        "Phone",
+        "All Right Reserved"
+    ]
+}

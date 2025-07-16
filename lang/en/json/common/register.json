@@ -1,0 +1,16 @@
+{
+    "_comments": "Register",
+    "title": "E-commerce website - Register",
+    "slug": "register",
+    "content": [
+        "Register",
+        "Name",
+        "Email",
+        "Phone",
+        "Password",
+        "Confirm Password",
+        "Register",
+        "Do you have an account? Login"
+    ],
+    "fail_status": "Passwords don't match"
+}

@@ -1,0 +1,16 @@
+{
+    "_comments": "Login",
+    "title": "E-commerce website - Login",
+    "slug": "login",
+    "content": [
+        "Login",
+        "Email",
+        "Password",
+        "Login",
+        "Don't have account? Register"
+    ],
+    "fail_status": [
+        "Wrong email or password !",
+        "You do not have an account with this email !"
+    ]
+}

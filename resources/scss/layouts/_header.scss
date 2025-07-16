@@ -1,0 +1,75 @@
+.nav-buttons {
+    margin-left: 55%;
+
+    @media only screen and (max-width: 990px) {
+        margin: 20px;
+
+        ul {
+            margin: 1rem;
+            justify-content: flex-start;
+            align-items: flex-start;
+            text-align: left;
+
+            i {
+                margin: 20px 5px 10px 20px;
+            }
+        }
+    }
+}
+
+.navbar {
+    @include font-parameters(16px);
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+    top: 0;
+    left: 0;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+
+    .nav-link {
+        padding: 0 10px !important;
+        color: $color-black;
+        transition: 0.4s ease;
+
+        &:hover {
+            color: $color-secondary;
+        }
+    }
+
+    i {
+        @include font-parameters(1.2rem, 600);
+        color: $color-black;
+        padding: 0 0.7px;
+        transition: 0.4s ease;
+        cursor: pointer;
+        margin-left: 5px;
+        z-index: 5;
+
+        &:hover {
+            color: $color-secondary;
+        }
+    }
+
+}
+
+.nav-cart {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+    .nav-cart-quantity {
+        background-color: $color-black;
+        color: $color-white;
+        padding: 1.5px 3px;
+        border-radius: 50%;
+        font-size: .65rem;
+        z-index: 10;
+        margin: 0 -7px;
+    }
+
+    &:hover {
+        .nav-cart-quantity {
+            background-color: $color-secondary;
+        }
+    }
+}

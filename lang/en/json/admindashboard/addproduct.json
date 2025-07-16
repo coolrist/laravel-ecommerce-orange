@@ -1,0 +1,23 @@
+{
+    "_comments": "Add product",
+    "title": "Admin Dashboard | Add product",
+    "slug": "add-product",
+    "content": [
+        "Dashboard",
+        "Create Product",
+        "Title",
+        "Description",
+        "Price",
+        "Category",
+        "Color",
+        "Special Offer/Sale",
+        "Sale %",
+        "Image 1",
+        "Image 2",
+        "Image 3",
+        "Image 4",
+        "Create"
+    ],
+    "fail_status": "The category is not found",
+    "success_status": "The product :Name has been successfully saved !"
+}

@@ -1,0 +1,18 @@
+{
+    "_comments": "Orders",
+    "title": "Admin Dashboard | Orders",
+    "content": [
+        "Dashboard",
+        "Orders",
+        "Order Id",
+        "Order Status",
+        "User Name",
+        "Order Date",
+        "User Phone",
+        "User Address",
+        "Order Cost",
+        "Edit",
+        "Delete"
+    ],
+    "success_status": "The order has been updated successfully !"
+}

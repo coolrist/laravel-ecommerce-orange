@@ -1,0 +1,37 @@
+{
+    "_comments": "User Dashboard",
+    "title": "Orange - Your dashboard",
+    "content": {
+        "others": [
+            "Account info",
+            "Name:",
+            "Email:",
+            "Phone:",
+            "Your orders",
+            "Logout"
+        ],
+        "password_form": [
+            "Change Password",
+            "Password",
+            "Confirm Password"
+        ],
+        "orders": [
+            "Your orders",
+            "Order id",
+            "Order cost",
+            "Order status",
+            "Order date",
+            "Order details",
+            "details"
+        ]
+    },
+    "fail_status": [
+        "Passwords don't match",
+        "We could not update password"
+    ],
+    "success_status": [
+        "You registered successfully !",
+        "You logged in successfully !",
+        "Password has been update successfully"
+    ]
+}

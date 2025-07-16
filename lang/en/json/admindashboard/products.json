@@ -1,0 +1,21 @@
+{
+    "_comments": "Products",
+    "title": "Admin Dashboard | Products",
+    "content": [
+        "Dashboard",
+        "Products",
+        "Product Id",
+        "Product Image",
+        "Product Name",
+        "Product Price",
+        "Product Offer",
+        "Product Category",
+        "Product Color",
+        "Edit",
+        "Delete"
+    ],
+    "success_status": {
+        "update": "The product :Name has been successfully updated !",
+        "delete": "The product :Name has been successfully deleted !"
+    }
+}

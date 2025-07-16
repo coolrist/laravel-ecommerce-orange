@@ -1,0 +1,13 @@
+{
+    "_comments": "Add Category",
+    "title": "Admin Dashboard | Add Category",
+    "slug": "add-category",
+    "content": [
+        "Dashboard",
+        "Add Category",
+        "Category name",
+        "Save"
+    ],
+    "fail_status": "There are not categories",
+    "success_status":"The category :Name has been successfully saved !"
+}

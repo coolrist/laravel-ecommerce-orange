@@ -1,0 +1,19 @@
+{
+    "_comments": "Cart",
+    "title": "E-commerce website - Cart",
+    "slug": "cart",
+    "content": {
+        "alert": "Product was already added to cart !",
+        "others": [
+            "Your Cart",
+            "Product",
+            "Quantity",
+            "Subtotal",
+            "Edit",
+            "Remove",
+            "Total",
+            "Checkout"
+        ]
+    },
+    "fail_status": "Your cart is empty !"
+}

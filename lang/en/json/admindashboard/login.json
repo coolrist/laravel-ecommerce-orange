@@ -1,0 +1,15 @@
+{
+    "_comments": "Login",
+    "title": "Admin Dashboard | Login",
+    "slug": "login",
+    "content": [
+        "Login",
+        "Email",
+        "Password",
+        "Login"
+    ],
+    "fail_status": [
+        "Wrong email or password !",
+        "You do not have an account with this email !"
+    ]
+}

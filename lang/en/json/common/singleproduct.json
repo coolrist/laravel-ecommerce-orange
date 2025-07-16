@@ -1,0 +1,15 @@
+{
+    "_comments": "Single product",
+    "title": "E-commerce website - Product: :Product",
+    "slug": "single-product",
+    "content": {
+        "btn": {
+            "add" : "Add To Cart",
+            "buy" : "Buy Now"
+        },
+        "others": [
+            "Product details",
+            "Related products"
+        ]
+    }
+}

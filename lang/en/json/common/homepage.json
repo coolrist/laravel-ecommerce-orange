@@ -1,0 +1,30 @@
+{
+    "_comments": "Homepage",
+    "title": "E-commerce website - Home page",
+    "content": {
+        "btn": {
+            "shop": "Shop Now",
+            "buy": "Buy Now"
+        },
+        "others": [
+            "NEW ARRIVALS",
+            "Best Prices",
+            "This Season",
+            "Eshop offers the best products for the most affordable prices",
+            "Extreamely Awesome Shoes",
+            "Awesome Bag",
+            "50% OFF Watches",
+            "Our featured",
+            "Here you can check out our featured products",
+            "MID SEASON'S SALE",
+            "Autumn Collection",
+            "UP to 30% OFF",
+            "Dresses & Coats",
+            "Here you can check out our amazing clothes",
+            "Best Watches",
+            "Check out our unique watches",
+            "Shoes",
+            "Here you can check out our amazing shoes"
+        ]
+    }
+}

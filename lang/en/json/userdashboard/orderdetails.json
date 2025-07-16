@@ -1,0 +1,12 @@
+{
+    "_comments": "Order details",
+    "title": "E-commerce website - Order details",
+    "slug": "order-details",
+    "content": [
+        "Order details",
+        "Product",
+        "Price",
+        "Quantity",
+        "Pay Now"
+    ]
+}
